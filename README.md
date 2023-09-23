@@ -1,4 +1,4 @@
-![Screenshot from 2023-09-24 00-16-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/6dcd864c-09ee-4c06-95c6-782663d58132)![Screenshot from 2023-09-24 00-16-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/3d70726c-4791-475a-b63e-7988982e7745)# bigdata_project
+ # bigdata_project
 
 "In this project, I am going to analyze crime data in India. Here, we used big data tools such as Hadoop, Hive, Spark, and Matplotlib. The data downloaded from Kaggle is loaded into Hadoop and then into a Hive table. Analysis is performed on this Hive table. In Hive, we used the SerDe method, as well as group by and order by functions for filtering the data. The output obtained is plotted in a bar graph using Matplotlib in pyspark."
 ![collage](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ace96c18-10d4-4a41-8432-06a2837695dc)
