@@ -53,7 +53,7 @@ steps:
    
 
 ![1 total_cases police](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4856a7d8-867c-40c9-9365-38ad928a52d4)
-![Screenshot from 2023-09-23 23-44-21](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5f32d225-f338-4e4d-a9a3-09e3854fee8b)
+![Screenshot from 2023-09-24 00-06-38](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e8e932e0-91dd-4e56-995a-e357fc4f4043)
 ![Screenshot from 2023-09-23 22-55-17](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f9ff81a2-7f2e-486a-a82e-20783aa44625)
 
 d)From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
