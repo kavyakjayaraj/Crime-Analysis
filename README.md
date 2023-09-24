@@ -66,21 +66,20 @@ d)From each table with cases in the years 2016, 2017, and 2018, the top 10 state
        
 ![1 add table to new table2016(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c0fcbc9b-c3a5-4350-b744-483d27fc5cfa)
 ![Screenshot from 2023-09-23 23-23-44](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/53564737-303d-44b8-ab7b-eb5708200ae5)
-![1 new insert table 2016 to hdfs](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c1dd9108-5e1d-4405-897e-7b2c750b84ba)
-
+![Screenshot from 2023-09-24 15-22-07](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1a0ab155-50a6-43cb-a62d-79c8912a18a0)
 
           * 2017 Cases against Police Personnels
 
 ![2 add table newtable 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d288ee12-48bb-488a-9424-8c7f3c77838d)
 ![Screenshot from 2023-09-23 23-28-20](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/10c889c9-7c9e-4fa0-a10f-1661f7819f80)
-![2 new insert hdfs2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/deb8dc57-ea4d-4c25-beed-818de529d8b2)
-
+![Screenshot from 2023-09-24 15-24-46](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b4fdd6af-2fa9-4379-927a-e7f609be07b5)
 
           * 2018 Cases against Police Personnels
 
 ![3 add table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7892dd13-ab33-46eb-9eb6-aac1afa75e01)
 ![Screenshot from 2023-09-23 23-28-59](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/35f6a93c-ad25-4fb0-931b-a85ef6bfd813)
-![3 new inserthdfs 2018(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/47f13892-f78f-4eec-b910-258d7a89ce67)
+![Screenshot from 2023-09-24 15-25-28](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9a02edae-d79f-4daa-86f0-f54312442581)
+
 
 
 
