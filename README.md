@@ -80,7 +80,8 @@ d)From each table with cases in the years 2016, 2017, and 2018, the top 10 state
 
 ![3 add table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7892dd13-ab33-46eb-9eb6-aac1afa75e01)
 ![Screenshot from 2023-09-23 23-28-59](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/35f6a93c-ad25-4fb0-931b-a85ef6bfd813)
-![3 3 insert table](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1d6defa7-07cf-430c-a504-f65357c0aa9c)
+![3 new inserthdfs 2018(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/47f13892-f78f-4eec-b910-258d7a89ce67)
+
 
 
 
