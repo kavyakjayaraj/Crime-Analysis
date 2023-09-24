@@ -51,6 +51,10 @@ steps:
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this result is loaded into a table.
    
+![1 create 3 table 2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/67037ce6-0e19-464a-abc0-b759cae65706)
+![1 3 table insert](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5665ecdc-fcdb-464f-a53d-09eb2f3cd686)
+![2  3 table insert](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/911196b0-01c0-4bc2-a9a4-09b57ad0fe42)
+![3 3 insert table](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1d04b018-20de-4234-a971-b9ecf878898c)
 
 ![1 total_cases police](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4856a7d8-867c-40c9-9365-38ad928a52d4)
 ![Screenshot from 2023-09-24 00-16-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ca4af555-b8cc-48ee-95a1-1dab77bd62e6)
