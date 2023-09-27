@@ -10,11 +10,11 @@ steps:
 ![1 createfolderinhadoop](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ae86e4a0-a24a-4c32-80e2-5b6f447ad7ed)
 ![2 dataloaded in hadoop](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/41c8a5cb-a885-45b1-8558-38739a743846)
 
-2. From HDFS, data is loaded into Hive by creating a database.
+2. From HDFS, data is loaded into Hive by creating databases.
 
 ![Screenshot from 2023-09-24 00-03-34](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9932391a-f27c-4409-8fa3-f011b2a2ba8a)
+![2 data baseescapes_from_police_custody ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1fee5d80-a90d-4e32-a00d-e0f1141709f8)
 
-   
    a) Using SerDe properties, data is loaded into a table by removing quotes.
    
        * 2016 Cases against Police Personnels
@@ -31,7 +31,12 @@ steps:
 
  ![3 create normal table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5f865551-c72d-4e61-b093-4d1edebd3ea0)
  ![3 loaddatahdfs2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ac802f71-b88b-4698-bb63-31fd2a93b74a)
- 
+
+        * 2016 Escapes from Police Custody
+        
+ ![1 create normal table2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2b4357e7-5a70-477d-842b-97afab052d3a)
+ ![1 loaddatahdfs2016(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/34642863-29a3-484a-9e87-081ef1ae17d0)
+
    b) From this table, data is loaded into another table.
     
            * 2016 Cases against Police Personnels
