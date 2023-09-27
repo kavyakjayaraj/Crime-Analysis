@@ -36,6 +36,16 @@ steps:
         
  ![1 create normal table2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2b4357e7-5a70-477d-842b-97afab052d3a)
  ![1 loaddatahdfs2016(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/34642863-29a3-484a-9e87-081ef1ae17d0)
+ 
+         * 2017 Escapes from Police Custody
+         
+ ![2 create normal table 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b4ba28b0-7202-498f-bb4c-8bf6b2273534)
+ ![2 loaddatahdfs2017(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d7c00fe3-94ee-46ff-9151-ee1434222ac2)
+
+         * 2018 Escapes from Police Custody
+         
+  ![3 create noraml table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9070209c-b45d-48f9-aa34-76e69c69889b)
+  ![3 loaddata hdfs 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e088fcf6-b941-423b-93b4-29c4ac664027)
 
    b) From this table, data is loaded into another table.
     
@@ -53,6 +63,8 @@ steps:
           
 ![3 create new table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/53cdbf80-4866-47d6-b4e2-847b2b6a80fa)
 ![3 insert 2018 ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/93031c92-c821-430c-b350-8acd36e223e2)
+          
+
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this result is loaded into a table.
    
@@ -85,6 +97,10 @@ d)From each table with cases in the years 2016, 2017, and 2018, the top 10 state
 ![Screenshot from 2023-09-23 23-28-59](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/35f6a93c-ad25-4fb0-931b-a85ef6bfd813)
 ![Screenshot from 2023-09-24 15-25-28](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9a02edae-d79f-4daa-86f0-f54312442581)
 
+
+e)The results are plotted using matplotlib in pyspark.
+ 
+The files regarding the cases against police personnel, escapes from police custody, and victims of rape are mentioned above as cases.py, escapes.py, and victims.py respectively.
 
 
 
