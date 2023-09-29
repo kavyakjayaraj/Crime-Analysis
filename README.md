@@ -101,9 +101,10 @@ steps:
 ![2 insert 3 tables2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b4b1d6c9-b5fe-4da2-aec6-0e5c15950792)
 ![3 insert 3 table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/343e3231-db06-479f-ae5b-b7750acaaced)
 
-
-
-   
+![Screenshot from 2023-09-29 21-01-17](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/fb40d31a-3c1b-4ebf-90d2-4651a35bf9d7)
+![Screenshot from 2023-09-29 21-06-31](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b3a1cca1-ffe0-4157-831b-a843044fac7b)
+![Screenshot from 2023-09-29 21-10-53](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/46a9eeeb-fa5e-4d4c-86e7-a4be8a9f252a)
+ 
 d)From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
        * 2016 Cases against Police Personnels
