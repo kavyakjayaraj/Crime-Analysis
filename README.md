@@ -47,6 +47,20 @@ steps:
   ![3 create noraml table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9070209c-b45d-48f9-aa34-76e69c69889b)
   ![3 loaddata hdfs 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e088fcf6-b941-423b-93b4-29c4ac664027)
 
+        * 2016 Victims of Rape
+   The datas are already in integer datatype so serDe properties are not used instead table is directly loaded in HDFS.
+   
+   ![1 loaddatahsdfs2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f8439b0b-9028-46de-8cfd-5460966b686c)
+   
+        * 2017 Victims of Rape
+        
+   ![2 loaddatahdfs2017(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e7661454-7580-4df5-9619-cbcfd417e2c3)
+   
+        * 2018 Victims of Rape
+        
+   ![3 loaddatafromhdfs2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/3e71b990-e02b-44a5-a30b-3c0f6fed62b5)
+
+  
    b) From this table, data is loaded into another table.
     
            * 2016 Cases against Police Personnels
@@ -75,11 +89,12 @@ steps:
 ![2 2017 new table create](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2942c6f4-4446-4508-a2a6-64317ee34cf1)
 ![2 insert 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/80c684c6-564e-43ec-a69e-4d7200168b4a)
 
-
         * 2018 Escapes from Police Custody
 
 ![3 create newtable 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4d97ed7a-37b2-4c4e-8e10-6697f7ca94c9)
 ![3 insert 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c391129a-3895-4108-a1a8-c2de76af1663)
+
+
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded ,most number of persons escaped and highest number of rape victims for three years(2016,2017,2018)are filtered, and this result is loaded into a table.
    
