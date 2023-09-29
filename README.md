@@ -128,7 +128,20 @@ d)From each table with cases,escapes and victims, in the years 2016, 2017, and 2
         * 2016 Escapes from Police Custody
         
 ![Screenshot from 2023-09-29 21-31-16](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5b456733-d78f-4dbf-a1a0-102c4256fb45)
+![Screenshot from 2023-09-29 21-51-36](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/a0603066-1205-4470-a04f-60839d21afef)
+![Screenshot from 2023-09-29 22-03-04](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f64426af-31f5-45fc-9830-5ce6f5fdc9f3)
 
+        * 2017 Escapes from Police Custody
+        
+![Screenshot from 2023-09-29 22-06-34](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7f8f075f-1723-49f8-a68a-fe7473deed1c)
+![Screenshot from 2023-09-29 22-08-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/8982a8fe-0013-47c6-bd9a-52c27a8f5878)
+![Screenshot from 2023-09-29 22-09-21](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/44a061b4-a551-45d6-aea1-92981b1eb771)
+
+        * 2018 Escapes from Police Custody
+
+![Screenshot from 2023-09-29 22-11-25](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/60ee789b-2019-49be-a939-e3e6e2f89338)
+![Screenshot from 2023-09-29 22-12-37](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/866008c5-6496-4820-88dd-e1e7fe191811)
+![Screenshot from 2023-09-29 22-14-19](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c28004be-4aeb-4a90-83f0-d30f1f33a550)
 
 e)The results are plotted using matplotlib in pyspark.
  
