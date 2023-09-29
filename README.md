@@ -63,8 +63,23 @@ steps:
           
 ![3 create new table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/53cdbf80-4866-47d6-b4e2-847b2b6a80fa)
 ![3 insert 2018 ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/93031c92-c821-430c-b350-8acd36e223e2)
-          
 
+        * 2016 Escapes from Police Custody
+        
+![1 newtable2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/0001b5fa-80ac-4e44-9ee1-5913533004e0)
+![1 insert 2016 ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/3384900a-eea4-42f2-8402-3960aa6483ce)
+
+
+        * 2017 Escapes from Police Custody
+        
+![2 2017 new table create](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2942c6f4-4446-4508-a2a6-64317ee34cf1)
+![2 insert 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/80c684c6-564e-43ec-a69e-4d7200168b4a)
+
+
+        * 2018 Escapes from Police Custody
+
+![3 create newtable 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4d97ed7a-37b2-4c4e-8e10-6697f7ca94c9)
+![3 insert 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c391129a-3895-4108-a1a8-c2de76af1663)
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this result is loaded into a table.
    
