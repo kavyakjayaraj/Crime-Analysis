@@ -125,6 +125,10 @@ d)From each table with cases,escapes and victims, in the years 2016, 2017, and 2
 ![Screenshot from 2023-09-23 23-28-59](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/35f6a93c-ad25-4fb0-931b-a85ef6bfd813)
 ![Screenshot from 2023-09-24 15-25-28](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9a02edae-d79f-4daa-86f0-f54312442581)
 
+        * 2016 Escapes from Police Custody
+        
+![Screenshot from 2023-09-29 21-31-16](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5b456733-d78f-4dbf-a1a0-102c4256fb45)
+
 
 e)The results are plotted using matplotlib in pyspark.
  
