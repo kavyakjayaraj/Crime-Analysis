@@ -81,7 +81,7 @@ steps:
 ![3 create newtable 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4d97ed7a-37b2-4c4e-8e10-6697f7ca94c9)
 ![3 insert 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c391129a-3895-4108-a1a8-c2de76af1663)
 
-   c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this result is loaded into a table.
+   c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded ,most number of persons escaped and highest number of rape victims for three years(2016,2017,2018)are filtered, and this result is loaded into a table.
    
    Total number of cases in three years(2016,2017,2018)
    
@@ -105,7 +105,7 @@ steps:
 ![Screenshot from 2023-09-29 21-06-31](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b3a1cca1-ffe0-4157-831b-a843044fac7b)
 ![Screenshot from 2023-09-29 21-10-53](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/46a9eeeb-fa5e-4d4c-86e7-a4be8a9f252a)
  
-d)From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
+d)From each table with cases,escapes and victims, in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported,most number of persons escaped and highest number of rape victims in each year are filtered.
 
        * 2016 Cases against Police Personnels
        
