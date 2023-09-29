@@ -83,6 +83,8 @@ steps:
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this result is loaded into a table.
    
+   Total number of cases in three years(2016,2017,2018)
+   
 ![1 create 3 table 2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/67037ce6-0e19-464a-abc0-b759cae65706)
 ![1 3 table insert](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5665ecdc-fcdb-464f-a53d-09eb2f3cd686)
 ![2  3 table insert](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/911196b0-01c0-4bc2-a9a4-09b57ad0fe42)
@@ -92,6 +94,16 @@ steps:
 ![Screenshot from 2023-09-24 00-16-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ca4af555-b8cc-48ee-95a1-1dab77bd62e6)
 ![Screenshot from 2023-09-23 22-55-17](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f9ff81a2-7f2e-486a-a82e-20783aa44625)
 
+   Total number of persons escaped in three years(2016,2017,2018)
+   
+![1 create 3 table 2016(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2fdad2b8-26ea-4a9c-bb40-3cfa76348e27)
+![1 insert 3 tables2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2932a40d-8e84-4a90-9f4c-8703c66e81cf)
+![2 insert 3 tables2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b4b1d6c9-b5fe-4da2-aec6-0e5c15950792)
+![3 insert 3 table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/343e3231-db06-479f-ae5b-b7750acaaced)
+
+
+
+   
 d)From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
        * 2016 Cases against Police Personnels
