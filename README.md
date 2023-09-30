@@ -182,6 +182,22 @@ d)From each table containing cases,escapes and victims for the years 2016, 2017,
 ![Screenshot from 2023-09-29 22-14-19](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c28004be-4aeb-4a90-83f0-d30f1f33a550)
 
         * 2016 Victims of Rape
+        
+![Screenshot from 2023-09-30 17-20-27](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/da3b3d40-aa2c-456e-89ea-0ab6d43ca16b)
+![Screenshot from 2023-09-30 17-23-16](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5eccd45a-8eae-4656-84cf-f3bef1a05c95)
+![Screenshot from 2023-09-30 17-26-14](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b37bcf8e-788d-4aa4-b5dd-165f2e1a6fd2)
+
+        * 2017 Victims of Rape
+        
+![Screenshot from 2023-09-30 17-27-59](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e5e8620e-0c78-42bc-b7ec-c297690984f6)
+![Screenshot from 2023-09-30 17-29-01](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d102007f-5601-4fd9-8377-915850f5d670)
+![Screenshot from 2023-09-30 17-29-53](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d56a838d-8c62-42e9-8fb4-33a6913e7fb9)
+
+        * 2018 Victims of Rape
+        
+![Screenshot from 2023-09-30 17-31-11](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f88e549a-cec8-4fd6-b3ab-67c33108fccc)
+![Screenshot from 2023-09-30 17-31-54](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/822c8ce9-0054-435b-8290-967e2fb24581)
+![Screenshot from 2023-09-30 17-31-54](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/74e1c1d3-3f4e-49ed-b94f-b4b64483b92b)
 
 e)The results are plotted using matplotlib in pyspark.
  
