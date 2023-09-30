@@ -48,7 +48,7 @@ steps:
   ![3 loaddata hdfs 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e088fcf6-b941-423b-93b4-29c4ac664027)
 
         * 2016 Victims of Rape
-   The datas are already in integer datatype so serDe properties are not used instead table is directly loaded in HDFS.
+   The datas are already in integer datatype so serDe property is not used instead table is directly loaded in HDFS .(2016&2017 victims of rape)
    
    ![1 loaddatahsdfs2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f8439b0b-9028-46de-8cfd-5460966b686c)
    
@@ -58,6 +58,7 @@ steps:
    
         * 2018 Victims of Rape
         
+   ![3 create normal table2018 ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e54a807d-27cd-4afe-84da-5a03efb138f2)
    ![3 loaddatafromhdfs2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/3e71b990-e02b-44a5-a30b-3c0f6fed62b5)
 
   
@@ -103,6 +104,9 @@ steps:
 ![2 create table vit 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9618c952-676e-4630-8cd4-34d377dde02b)
 
         * 2018 Victims of Rape
+        
+![3 create newtable2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5ea163e0-9468-4413-b342-389c8fffb6ea)
+![3 insert tble2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9439d5dd-db17-4e6a-9d0c-72a55fdb8b0e)
 
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded ,the most persons escaped and the highest number of rape victims for three years(2016,2017,2018)are filtered, and this result is loaded into a table.
    
@@ -127,7 +131,18 @@ steps:
 ![Screenshot from 2023-09-29 21-01-17](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/fb40d31a-3c1b-4ebf-90d2-4651a35bf9d7)
 ![Screenshot from 2023-09-29 21-06-31](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b3a1cca1-ffe0-4157-831b-a843044fac7b)
 ![Screenshot from 2023-09-29 21-10-53](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/46a9eeeb-fa5e-4d4c-86e7-a4be8a9f252a)
- 
+
+Total number of rape victims in three years(2016,2017,2018)
+
+![1 create 3 table 2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/b934ca77-fc0c-4bbd-8349-243d4d8eb7ba)
+![1 insert 3 table 2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e73541f0-6770-4142-a743-3bcb7895d35c)
+![2 insert 3 table 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ce5cb727-5d54-43fa-869a-72a94cf58b64)
+![3 insert 3 table 2018(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d58a5d64-f406-434b-be30-7c2076caee9e)
+
+![1 victims_cases create table](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1b2e83a7-d308-476b-8bcc-7a200ba8c0bc)
+![1 victims total rape victims](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/101238e1-5f49-4ad5-8c58-755a523bf0cc)
+![1  total_rape _ victims insert hdfs](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d5cf932f-7571-4388-9a94-b80565fa97a6)
+
 d)From each table containing cases,escapes and victims for the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported,the most persons escaped and highest number of rape victims in each year are filtered.
 
        * 2016 Cases against Police Personnels
@@ -165,6 +180,8 @@ d)From each table containing cases,escapes and victims for the years 2016, 2017,
 ![Screenshot from 2023-09-29 22-11-25](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/60ee789b-2019-49be-a939-e3e6e2f89338)
 ![Screenshot from 2023-09-29 22-12-37](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/866008c5-6496-4820-88dd-e1e7fe191811)
 ![Screenshot from 2023-09-29 22-14-19](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c28004be-4aeb-4a90-83f0-d30f1f33a550)
+
+        * 2016 Victims of Rape
 
 e)The results are plotted using matplotlib in pyspark.
  
