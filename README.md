@@ -48,11 +48,14 @@ steps:
   ![3 create noraml table 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9070209c-b45d-48f9-aa34-76e69c69889b)
   ![3 loaddata hdfs 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e088fcf6-b941-423b-93b4-29c4ac664027)
 
-        * 2016 Victims of Rape
-   The datas are already in integer datatype so serDe property is not used instead table is directly loaded in HDFS .(2016&2017 victims of rape)
+   The data is already in integer datatype, so the serDe property is not used.Instead a table is created and loaded directly into HDFS(2016 victims of rape).
 
+        * 2016 Victims of Rape
+        
    ![1 create table vit2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7c790857-f29e-442b-9d76-d53a0c440cfa)
    ![1 loaddatahsdfs2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f8439b0b-9028-46de-8cfd-5460966b686c)
+
+   The data is already in integer datatype, so the serDe property is not used.Instead a table is created and loaded directly into HDFS(2017 victims of rape).
    
         * 2017 Victims of Rape
         
