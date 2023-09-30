@@ -203,6 +203,11 @@ The files regarding the cases against police personnel, escapes from police cust
 
 
 The reports are given below;
+i)To find the top 10 states/ut with the highest number of cases reported in the year 2016.
+
+![1 2016 casestable ss](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/257df698-6e44-4add-83e2-51d49b5e7c52)
+![1 cases2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e595fa41-c767-41a6-b28d-95e7daa7e006)
+
 
 
 
