@@ -197,7 +197,7 @@ d)From each table containing cases,escapes and victims for the years 2016, 2017,
         
 ![Screenshot from 2023-09-30 17-31-11](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f88e549a-cec8-4fd6-b3ab-67c33108fccc)
 ![Screenshot from 2023-09-30 17-31-54](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/822c8ce9-0054-435b-8290-967e2fb24581)
-![Screenshot from 2023-09-30 17-31-54](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/74e1c1d3-3f4e-49ed-b94f-b4b64483b92b)
+![Screenshot from 2023-09-30 17-32-54](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/801a68df-a0e6-472c-b0a9-5d75eb68410e)
 
 e)The results are plotted using matplotlib in pyspark.
  
