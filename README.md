@@ -14,6 +14,7 @@ steps:
 
 ![Screenshot from 2023-09-24 00-03-34](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9932391a-f27c-4409-8fa3-f011b2a2ba8a)
 ![2 data baseescapes_from_police_custody ](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1fee5d80-a90d-4e32-a00d-e0f1141709f8)
+![Screenshot from 2023-09-30 19-51-16](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/5c38f10e-84c8-43b8-aa68-73c4ac617a05)
 
    a) Using SerDe properties, data is loaded into a table by removing quotes.
    
