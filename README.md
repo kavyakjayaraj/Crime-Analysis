@@ -50,11 +50,13 @@ steps:
 
         * 2016 Victims of Rape
    The datas are already in integer datatype so serDe property is not used instead table is directly loaded in HDFS .(2016&2017 victims of rape)
-   
+
+   ![1 create table vit2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7c790857-f29e-442b-9d76-d53a0c440cfa)
    ![1 loaddatahsdfs2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/f8439b0b-9028-46de-8cfd-5460966b686c)
    
         * 2017 Victims of Rape
         
+   ![2 create table vit 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9618c952-676e-4630-8cd4-34d377dde02b)     
    ![2 loaddatahdfs2017(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e7661454-7580-4df5-9619-cbcfd417e2c3)
    
         * 2018 Victims of Rape
@@ -95,14 +97,6 @@ steps:
 
 ![3 create newtable 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/4d97ed7a-37b2-4c4e-8e10-6697f7ca94c9)
 ![3 insert 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/c391129a-3895-4108-a1a8-c2de76af1663)
-
-        * 2016 Victims of Rape
-        
-![1 create table vit2016(2)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7c790857-f29e-442b-9d76-d53a0c440cfa)
-
-        * 2017 Victims of Rape
-        
-![2 create table vit 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9618c952-676e-4630-8cd4-34d377dde02b)
 
         * 2018 Victims of Rape
         
