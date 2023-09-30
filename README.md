@@ -202,7 +202,8 @@ e)The results are plotted using matplotlib in pyspark.
 The files regarding the cases against police personnel, escapes from police custody, and victims of rape are mentioned above as cases.py, escapes.py, and victims.py respectively.
 
 
-The reports are given below;
+* The reports are given below;
+
 i)To find the top 10 states/ut with the highest number of cases reported in the year 2016.
 
 ![1 2016 casestable ss](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/257df698-6e44-4add-83e2-51d49b5e7c52)
