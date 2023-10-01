@@ -226,11 +226,23 @@ iv)To find the top 10 states/ut with the highest number of cases reported in thr
 
 v)To find the top 10 states/ut with the highest number of persons escaped in the year 2016. 
 
+![5 escape 2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ba9e560d-3a01-49a1-84c9-142ed1c5cfd7)
+![5 escape2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/cd0b5f50-b83f-4cc4-8401-333c7f3dab02)
+
 vi)To find the top 10 states/ut with the highest number of persons escaped in the year 2017.
 
-v)To find the top 10 states/ut with the highest number of persons escaped in the year 2018. 
+![6 escape 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2b7a7768-e17a-46f9-b529-9e332fb6e57a)
+![6 escape2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/299cfd42-b409-4568-a202-967a2fff46b3)
+
+vii)To find the top 10 states/ut with the highest number of persons escaped in the year 2018. 
+
+![7 escape 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/99d7a205-c1c9-46da-86bf-e49b8f6a7ec7)
+![7 escape2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/45d8c7d1-fc1e-42f7-bce0-74b35a3434f2)
 
 viii)To find the top 10 states/ut with the highest number of persons escaped in three years(2016,2017,2018).
+
+![8 escape all](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/d3541c38-78d7-4023-84d7-d620d0078a65)
+![8 escape all(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7f717ec2-96ef-4d3a-aad1-4958960b5be0)
 
 ix)To find the top 10 states/ut with the highest number of rape victims in the year 2016. 
 
