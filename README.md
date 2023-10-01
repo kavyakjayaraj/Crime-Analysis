@@ -224,7 +224,23 @@ iv)To find the top 10 states/ut with the highest number of cases reported in thr
 ![4 cases all](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e79f9462-9453-43f3-9329-a4125f27de84)
 ![4 cases all(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ee2e92fd-d3eb-449c-81e3-4cb08cea0ba3)
 
-       
+v)To find the top 10 states/ut with the highest number of persons escaped in the year 2016. 
+
+vi)To find the top 10 states/ut with the highest number of persons escaped in the year 2017.
+
+v)To find the top 10 states/ut with the highest number of persons escaped in the year 2018. 
+
+viii)To find the top 10 states/ut with the highest number of persons escaped in three years(2016,2017,2018).
+
+ix)To find the top 10 states/ut with the highest number of rape victims in the year 2016. 
+
+x)To find the top 10 states/ut with the highest number of rape victims in the year 2017.
+
+ix)To find the top 10 states/ut with the highest number of rape victims in the year 2018.
+
+ix)To find the top 10 states/ut with the highest number of rape victims in three years(2016,2017,2018)
+
+
 
 
 
