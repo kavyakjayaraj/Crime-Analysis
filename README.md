@@ -254,15 +254,27 @@ x)To find the top 10 states/ut with the highest number of rape victims in the ye
 ![10 victims 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/26ed99da-1a4c-49a3-b457-5630b5349c74)
 ![10 victims2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9e5e94e6-ce23-4e57-b57a-3927ae2ecb78)
 
-ix)To find the top 10 states/ut with the highest number of rape victims in the year 2018.
+xi)To find the top 10 states/ut with the highest number of rape victims in the year 2018.
 
 ![11 victims 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/634fc47f-3d00-4c1e-9e33-3e65afa1d137)
 ![11 victims2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2f827f78-b3ed-4004-a036-43ad887408b3)
 
-ix)To find the top 10 states/ut with the highest number of rape victims in three years(2016,2017,2018)
+xii)To find the top 10 states/ut with the highest number of rape victims in three years(2016,2017,2018)
 
 ![12 victims all](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1709f975-288e-49d8-a236-451d89e6a4ac)
 ![12 victims all(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/abb4e68a-e9f2-41ad-b2b6-27cd447c98b7)
+
+# Conclusion
+
+1.The top 10 states/ut with the highest number of cases reported(2016,2017,2018)
+   In conclusion, our analysis has revealed the top 10 states/union territories with the highest number of reported cases over the three-year period (2016-2018). This information can aid in understanding regional trends and facilitating targeted interventions.
+
+2.The top 10 states/ut with the highest number of persons escaped (2016, 2017, 2018)
+   To summarize, our investigation has identified the top 10 states/union territories with the highest number of individuals who escaped from police custody during the three-year span (2016-2018). This data may inform efforts to enhance custodial security measures.
+
+3. The top 10 states/ut with the highest number of rape victims(2016,2017,2018)
+   In summary, our research has pinpointed the top 10 states in India with the highest number of reported rape cases over the three-year period (2016-2018). This insight is crucial for addressing and advocating for measures to combat sexual violence in these regions.
+	
 
 
 
