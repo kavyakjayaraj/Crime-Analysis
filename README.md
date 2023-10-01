@@ -246,11 +246,22 @@ viii)To find the top 10 states/ut with the highest number of persons escaped in 
 
 ix)To find the top 10 states/ut with the highest number of rape victims in the year 2016. 
 
+![9 victims 2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/7ba43981-1178-4db0-ba96-3ce93a6306d8)
+![9 victims2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/a71a261a-7c57-484e-9f95-29f2e6d9fb27)
+
 x)To find the top 10 states/ut with the highest number of rape victims in the year 2017.
+
+![10 victims 2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/26ed99da-1a4c-49a3-b457-5630b5349c74)
+![10 victims2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9e5e94e6-ce23-4e57-b57a-3927ae2ecb78)
 
 ix)To find the top 10 states/ut with the highest number of rape victims in the year 2018.
 
+![11 victims 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/634fc47f-3d00-4c1e-9e33-3e65afa1d137)
+
 ix)To find the top 10 states/ut with the highest number of rape victims in three years(2016,2017,2018)
+
+![12 victims all](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/1709f975-288e-49d8-a236-451d89e6a4ac)
+![12 victims all(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/abb4e68a-e9f2-41ad-b2b6-27cd447c98b7)
 
 
 
