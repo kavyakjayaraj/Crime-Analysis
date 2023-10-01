@@ -209,8 +209,20 @@ i)To find the top 10 states/ut with the highest number of cases reported in the 
 ![1 2016 casestable ss](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/257df698-6e44-4add-83e2-51d49b5e7c52)
 ![1 cases2016](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e595fa41-c767-41a6-b28d-95e7daa7e006)
 
+ii)To find the top 10 states/ut with the highest number of cases reported in the year 2017.
 
+![2 cases2017](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/9895eaf4-3d65-40c0-9b86-fb51080684ac)
+![2 cases2017(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/249656e0-a73b-45d9-9e5e-917191546e71)
 
+iii)To find the top 10 states/ut with the highest number of cases reported in the year 2018.
+
+![3 cases 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/df00e45b-3739-4341-8481-4112e7fb810a)
+![3 cases2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/016a4101-5999-4270-a925-2bf49ff774df)
+
+iv)To find the top 10 states/ut with the highest number of cases reported in three years(2016,2017,2018)
+
+![4 cases all](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/e79f9462-9453-43f3-9329-a4125f27de84)
+![4 cases all(1)](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/ee2e92fd-d3eb-449c-81e3-4cb08cea0ba3)
 
        
 
