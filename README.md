@@ -272,7 +272,7 @@ xii)To find the top 10 states/ut with the highest number of rape victims in thre
 2.The top 10 states/ut with the highest number of persons escaped (2016, 2017, 2018)
    To summarize, our investigation has identified the top 10 states/union territories with the highest number of individuals who escaped from police custody during the three-year span (2016-2018). This data may inform efforts to enhance custodial security measures.
 
-3. The top 10 states/ut with the highest number of rape victims(2016,2017,2018)
+3.The top 10 states/ut with the highest number of rape victims(2016,2017,2018)
    In summary, our research has pinpointed the top 10 states in India with the highest number of reported rape cases over the three-year period (2016-2018). This insight is crucial for addressing and advocating for measures to combat sexual violence in these regions.
 	
 
