@@ -257,6 +257,7 @@ x)To find the top 10 states/ut with the highest number of rape victims in the ye
 ix)To find the top 10 states/ut with the highest number of rape victims in the year 2018.
 
 ![11 victims 2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/634fc47f-3d00-4c1e-9e33-3e65afa1d137)
+![11 victims2018](https://github.com/kavyakjayaraj/bigdata_project/assets/127305603/2f827f78-b3ed-4004-a036-43ad887408b3)
 
 ix)To find the top 10 states/ut with the highest number of rape victims in three years(2016,2017,2018)
 
